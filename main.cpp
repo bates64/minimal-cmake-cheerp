@@ -1,5 +1,4 @@
 #include <cheerp/clientlib.h>
-#include <string>
 
 [[cheerp::genericjs]]
 void webMain() {
